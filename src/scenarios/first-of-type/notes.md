@@ -1,0 +1,6 @@
+- will attemp to match every element type 
+- will invalidate every element type on mutation of the first element
+- does not even matter if it's a different element (i.e. append a span)
+- Can also happen if you use react conditional rendering
+  - relevant for this because that's what the css should be for
+- effect is mirrored for last-of-type

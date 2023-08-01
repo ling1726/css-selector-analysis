@@ -1,0 +1,3 @@
+- results comparable to nth-child
+- cost is mainly in selector matching
+- why are other elements also affected?

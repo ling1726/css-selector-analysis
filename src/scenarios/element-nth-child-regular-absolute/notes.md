@@ -1,0 +1,3 @@
+- invalidates all elements if one new element is added or removed
+- does not care if the element type is correct
+- even classname instead of element type does not help

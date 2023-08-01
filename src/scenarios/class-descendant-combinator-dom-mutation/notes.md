@@ -1,0 +1,1 @@
+- Recalc style after adding new elements can be slower than - this is more obvious with advanced instrumentation
